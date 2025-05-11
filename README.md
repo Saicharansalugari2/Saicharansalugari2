@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS and NestJS**
 
-- 👯 I’m I’m currently working with **Logrocket to post Front End Content**
+- 👯 I’m currently working with **Logrocket to post Front End Content**
 
 - 👨‍💻 All of my projects are available at [https://saicharan-salugari-portfolio.vercel.app/](https://saicharan-salugari-portfolio.vercel.app/)
 
