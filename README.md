@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working with **Community dreams foundation**
 
-- 🌱 I’m currently learning **NodeJS and NestJS**
+- - 👯 I’m currently working with **Logrocket to post Front End Content**
 
-- 👯 I’m currently working with **Logrocket to post Front End Content**
+- 🌱 I’m currently learning **NodeJS and NestJS**
 
 - 👨‍💻 All of my projects are available at [https://saicharan-salugari-portfolio.vercel.app/](https://saicharan-salugari-portfolio.vercel.app/)
 
-- 📫 How to reach me **saicharansalugari9@gmail.com**
-
 - 📄 Know about my experiences [https://saicharan-salugari-portfolio.vercel.app/SAICHARAN_RESUME.pdf](https://saicharan-salugari-portfolio.vercel.app/SAICHARAN_RESUME.pdf)
+
+- - 📫 How to reach me **saicharansalugari9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
