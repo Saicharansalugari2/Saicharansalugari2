@@ -40,7 +40,7 @@ Most my projects are available on my [**portfolio website**](https://saicharan-s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   </div>
 
 
